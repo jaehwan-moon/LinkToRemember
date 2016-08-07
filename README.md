@@ -6,3 +6,4 @@
 ## Misc.
 * [Node.js ES2015 Support](http://node.green/)
 * [Browser support tables for modern web technologies](http://caniuse.com/)
+* [HTTP Status Codes](http://www.restapitutorial.com/httpstatuscodes.html)
