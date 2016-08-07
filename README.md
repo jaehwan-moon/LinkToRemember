@@ -1,4 +1,8 @@
-# LinkToRemember
+# Link To Remember
+
+## Github Repository
+* [cuid](https://github.com/ericelliott/cuid)
+Collision-resistant ids optimized for horizontal scaling and performance. For node and browsers.
 
 ## Articles
 * [6 compelling use cases for ES6 proxies](http://devbryce.com/use-cases-for-es6-proxies/)
