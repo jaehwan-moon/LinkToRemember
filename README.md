@@ -1,5 +1,8 @@
 # Link To Remember
 
+## Github
+* [How to change a remote's URL](https://help.github.com/articles/changing-a-remote-s-url/)
+
 ## Github Repository
 * [cuid](https://github.com/ericelliott/cuid)
 Collision-resistant ids optimized for horizontal scaling and performance. For node and browsers.
