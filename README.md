@@ -10,6 +10,7 @@ Collision-resistant ids optimized for horizontal scaling and performance. For no
 ## Articles
 * [6 compelling use cases for ES6 proxies](http://devbryce.com/use-cases-for-es6-proxies/)
 * [A 𝝺-CALCULUS INTERPRETER](http://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/?utm_source=javascriptweekly&utm_medium=email)
+* [Best Practices for Building Angular.js Apps](https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917#.9i0wd0jz0)
 
 ## Misc.
 * [Node.js ES2015 Support](http://node.green/)
