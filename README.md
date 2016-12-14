@@ -9,7 +9,6 @@ Collision-resistant ids optimized for horizontal scaling and performance. For no
 
 ## Articles
 * [6 compelling use cases for ES6 proxies](http://devbryce.com/use-cases-for-es6-proxies/)
-* [A 𝝺-CALCULUS INTERPRETER](http://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/?utm_source=javascriptweekly&utm_medium=email)
 * [Best Practices for Building Angular.js Apps](https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917#.9i0wd0jz0)
 
 ## Misc.
@@ -19,3 +18,8 @@ Collision-resistant ids optimized for horizontal scaling and performance. For no
 
 ## Reddit
 * [Good Javascript Blog](https://www.reddit.com/r/javascript/comments/4wwc9z/any_good_javascript_blog_to_check_daily/)
+
+## Compiler
+* [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
+* [Understanding Asts Building Babel Plugin](https://www.sitepoint.com/understanding-asts-building-babel-plugin/)
+* [A 𝝺-CALCULUS INTERPRETER](http://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/?utm_source=javascriptweekly&utm_medium=email)
